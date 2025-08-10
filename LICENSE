@@ -1,0 +1,15 @@
+
+---
+
+## Quick checklist before publishing
+- [ ] Source (`prompt_game.py`) committed and pushed.
+- [ ] README and LICENSE present.
+- [ ] `dist/prompt_game.exe` built and uploaded to Releases.
+- [ ] Add SHA256 checksum to release notes.
+- [ ] Consider zipping the exe for distribution.
+
+---
+
+If you want, I can:
+- generate the exact `README.md` and `.gitignore` file content for you to copy, or
+- give the exact commands tailored to your GitHub username and repo name — tell me your `github-username` and desired `repo-name` and I’ll produce the commands. Which do you prefer?
